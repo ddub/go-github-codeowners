@@ -1,0 +1,46 @@
+[
+   {
+      "id" : 16,
+      "slug" : "owners",
+      "members_url" : "https://api.github.com/teams/16/members{/member}",
+      "url" : "https://api.github.com/teams/16",
+      "name" : "Owners",
+      "permission" : "admin",
+      "repositories_url" : "https://api.github.com/teams/16/repos",
+      "privacy" : "secret",
+      "description" : null
+   },
+   {
+      "name" : "team",
+      "slug" : "drumpf",
+      "members_url" : "https://api.github.com/teams/50/members{/member}",
+      "id" : 50,
+      "url" : "https://api.github.com/teams/50",
+      "description" : "",
+      "repositories_url" : "https://api.github.com/teams/50/repos",
+      "privacy" : "secret",
+      "permission" : "push"
+   },
+   {
+      "name" : "team",
+      "slug" : "long",
+      "members_url" : "https://api.github.com/teams/55/members{/member}",
+      "id" : 55,
+      "url" : "https://api.github.com/teams/55",
+      "description" : "",
+      "repositories_url" : "https://api.github.com/teams/55/repos",
+      "privacy" : "secret",
+      "permission" : "push"
+   },
+   {
+      "name" : "team",
+      "slug" : "team",
+      "members_url" : "https://api.github.com/teams/72/members{/member}",
+      "id" : 72,
+      "url" : "https://api.github.com/teams/72",
+      "description" : "",
+      "repositories_url" : "https://api.github.com/teams/72/repos",
+      "privacy" : "secret",
+      "permission" : "push"
+   }
+]
