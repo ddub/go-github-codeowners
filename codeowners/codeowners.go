@@ -105,7 +105,7 @@ func expandteam(fullteam string, ctx context.Context, ch comms) {
 		return
 	}
 	teamname := fullteam[split+1:]
-	var teamid int
+	var teamid int64
 	for _, team := range teams {
 		if teamname == *team.Slug {
 			teamid = *team.ID
